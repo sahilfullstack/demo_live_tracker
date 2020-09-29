@@ -1,0 +1,23 @@
+{
+  "name": "live_tracker",
+  "version": "1.0.0",
+  "description": "Real Time Live Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilfullstack/demo_live_tracker.git"
+  },
+  "keywords": [
+    "live_tracker",
+    "tracker"
+  ],
+  "author": "Sahil Sarpal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilfullstack/demo_live_tracker/issues"
+  },
+  "homepage": "https://github.com/sahilfullstack/demo_live_tracker#readme"
+}
